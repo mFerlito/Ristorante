@@ -1,7 +1,15 @@
-#LA VONGOLA SUL MARE
+#IL CINGHIALE INGOLFATO
+
+Menù di carne
 
 Bevande
- 
+    * Acqua
+    * Birra
+    * Vino
+    * Cocacola
+    * Fanta
+    * Amaro del capo
+    
  -
  -
  -
