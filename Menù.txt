@@ -10,12 +10,5 @@ Bevande
     * Fanta
     * Amaro del capo
     
- -
- -
- -
- -
- -
- -
- -
-
+ 
 
