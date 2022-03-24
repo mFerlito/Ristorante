@@ -2,6 +2,12 @@
 
 Menù di carne
 
+Antipasti
+    * Crostini misti
+    * Tagliere di salumi e formaggi
+    * Tartare di manzo
+    * Degustazione di formaggi
+
 Bevande
     * Acqua
     * Birra
