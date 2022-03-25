@@ -16,5 +16,9 @@ Bevande
     * Fanta
     * Amaro del capo
     
- 
+ Secondi piatti
+   *Stinco di maiale in agrodolce
+   *Scaloppine ai funghi
+   *Tagliata di pollo
+   *Spiedini con verdure
 
