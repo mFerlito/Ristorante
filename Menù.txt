@@ -1,3 +1,26 @@
+#IL CINGHIALE INGOLFATO
+
+Menù di carne
+
+Antipasti
+    * Crostini misti
+    * Tagliere di salumi e formaggi
+    * Tartare di manzo
+    * Degustazione di formaggi
+
+Bevande
+    * Acqua
+    * Birra
+    * Vino
+    * Cocacola
+    * Fanta
+    * Amaro del capo
+    
+ Secondi piatti
+   *Stinco di maiale in agrodolce
+   *Scaloppine ai funghi
+   *Tagliata di pollo
+   *Spiedini con verdure
 
 Dolci
     * Tiramisù
